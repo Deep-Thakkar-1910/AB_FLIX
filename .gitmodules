@@ -1,0 +1,6 @@
+[submodule "Flix-backend"]
+	path = Flix-backend
+	url = https://github.com/Deep-Thakkar-1910/AB_Flix_backend.git
+[submodule "Flix-frontend"]
+	path = Flix-frontend
+	url = https://github.com/Deep-Thakkar-1910/AB_Flix_Frontend.git
