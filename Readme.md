@@ -17,7 +17,15 @@ Flix-Backend is a backend service designed to support the front-end application 
 
 ### Setup Instructions
 
-The setup includes cloning the repository, environment configuration, installing dependencies, running the server, and optional Docker setup for containerization.
+The setup includes cloning the repository, environment configuration, installing dependencies, running the server.
+
+- For installing the frontend and backend repositories at once please follow the below command.
+
+```bash
+    git clone --recurse-submodules https://github.com/Deep-Thakkar-1910/AB_FLIX.git
+```
+
+- Then follow the further instructions for each repository respectively
 
 ### API Endpoints
 
