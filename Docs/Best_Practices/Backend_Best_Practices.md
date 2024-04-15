@@ -16,7 +16,7 @@ This codebase demonstrates several best practices in API development, particular
 
 4. **Middleware for Authentication:**
 
-   - The `authenticateToken` middleware is used to protect routes that require user authentication, ensuring that only authorized requests access sensitive endpoints.
+   - The `authenticateJWT` middleware is used to protect routes that require user authentication, ensuring that only authorized requests access sensitive endpoints.
 
 5. **Error Handling:**
 
